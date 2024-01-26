@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+div {
+    height: 1000vh;
+}
+::-webkit-scrollbar {
+    width: 25px;
+}
+::-webkit-scrollbar-track {
+    background-color: #f6f6f6;
+}
+::-webkit-scrollbar-thumb {
+    background-color: dodgerblue;
+}
